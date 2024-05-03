@@ -1,4 +1,4 @@
-# TF_barcod_extraction
+# TF_barcode_extraction
 This repository stored the script for extracting TF barcode from the custome library as described in [Fei et al 2024](https://www.sciencedirect.com/science/article/pii/S1534580723004380?via%3Dihub).
 
 ## Citation
